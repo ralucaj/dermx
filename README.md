@@ -25,7 +25,7 @@ All dermatologist annotation are available in the `annotations` folder. Each JSO
         // Array of paths to trace each mask
       },
       "attributes": [
-        // Array of additional terms, if the characteristic is a basic terms
+        // Array of additional terms, if the characteristic is a basic term
       ]
     },
     {
@@ -36,7 +36,7 @@ All dermatologist annotation are available in the `annotations` folder. Each JSO
 }
 ```
 
-For ease of use, binary masks were also added in the `masks` folder. The `masks/instance_masks_annotations.csv` 
+For ease of use, binary masks were added in the `masks` folder. The `masks/instance_masks_annotations.csv` 
 file creates the relationship between the `image_id`, the `mask_id` as found in `masks/masks`, and the characteristic 
 name. Masks are stored as black and white PNG images, where black represents the background and white the selected area.
 
@@ -46,5 +46,5 @@ with the image, and the filename under which the image can be found in DermX.
 
 ## Getting access to the original images
 The authors have not yet received the right to redistribute the SD and DermNetNZ images. To access the original images, 
-please contact the owners of [the SD-260 dataset](http://xiaopingwu.cn/assets/projects/sd-198/), and 
+please contact the owners of [the SD-260 dataset](http://xiaopingwu.cn/assets/projects/sd-198/) and 
 [DermNetNZ dataset](https://dermnetnz.org/contact-us/). Access to this data is only allowed for research purposes.
