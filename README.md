@@ -47,3 +47,15 @@ with the image, and the filename under which the image can be found in DermX.
 The authors have not yet received the right to redistribute the SD and DermNetNZ images. To access the original images, 
 please contact the owners of [the SD-260 dataset](http://xiaopingwu.cn/assets/projects/sd-198/) and 
 [DermNetNZ dataset](https://dermnetnz.org/contact-us/). Access to this data is only allowed for research purposes.
+
+## Referencing this work
+If you use this repository in your research, please cite the work as:
+
+```bibtex
+@article{jalaboi2022dermx,
+  title={DermX: an end-to-end framework for explainable automated dermatological diagnosis},
+  author={Jalaboi, Raluca and Faye, Frederik and Orbes-Arteaga, Mauricio and J{\o}rgensen, Dan and Winther, Ole and Galimzianova, Alfiia},
+  journal={arXiv preprint arXiv:2202.06956},
+  year={2022}
+}
+```
