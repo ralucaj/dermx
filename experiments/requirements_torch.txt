@@ -1,0 +1,15 @@
+setuptools
+wheel
+pandas==1.1.5
+numpy==1.19.5
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cu110
+torchvision==0.8.2+cu110
+torchaudio==0.7.2
+Pillow==8.3.2
+tensorboard==2.7.0
+tqdm==4.62.3
+matplotlib==3.3.4
+jupyter==1.0.0
+segmentation-models-pytorch==0.2.0
+scikit-learn==0.24.2
