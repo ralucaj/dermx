@@ -1,4 +1,4 @@
-# DermX - a dermatological diagnosis explainability dataset
+# DermXDB - a dermatological diagnosis explainability dataset
 
 Repository for the DermXDB dataset. 
 
