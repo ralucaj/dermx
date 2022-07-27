@@ -1,7 +1,6 @@
 # DermX - a dermatological diagnosis explainability dataset
 
-Repository for the DermX dataset. You can find the paper in `DermX.pdf`, and the experiments in 
-[the experiments repo](https://github.com/leoilab/dermx-experiments).
+Repository for the DermXDB dataset. 
 
 ## Data structure
 The data is split into two folders: `annotations` and `masks`.
