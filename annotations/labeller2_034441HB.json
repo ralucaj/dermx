@@ -1,0 +1,19 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 1640,
+    "height": 1078,
+    "original_filename": "labeller2_034441HB.jpg",
+    "filename": "labeller2_034441HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/209363776/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209363776/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=168"
+  },
+  "annotations": [
+    {
+      "name": "Low-quality",
+      "tag": {}
+    }
+  ]
+}

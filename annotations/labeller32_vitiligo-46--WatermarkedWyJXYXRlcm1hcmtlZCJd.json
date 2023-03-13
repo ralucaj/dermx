@@ -1,0 +1,180 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 640,
+    "height": 480,
+    "original_filename": "labeller32_vitiligo-46--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller32_vitiligo-46--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/209363979/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209363979/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=371"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Depigmented",
+        "Well-circumscribed"
+      ],
+      "bounding_box": {
+        "h": 108.1,
+        "w": 65.63999999999999,
+        "x": 283.6,
+        "y": 200.54
+      },
+      "name": "Patch",
+      "polygon": {
+        "path": [
+          {
+            "x": 349.24,
+            "y": 287.46
+          },
+          {
+            "x": 347.14,
+            "y": 278.27
+          },
+          {
+            "x": 345.83,
+            "y": 276.63
+          },
+          {
+            "x": 349.24,
+            "y": 264.18
+          },
+          {
+            "x": 349.24,
+            "y": 259.7
+          },
+          {
+            "x": 343.56,
+            "y": 238.87
+          },
+          {
+            "x": 336.78,
+            "y": 230.6
+          },
+          {
+            "x": 327.2,
+            "y": 226.51
+          },
+          {
+            "x": 323.86,
+            "y": 212.0
+          },
+          {
+            "x": 317.98,
+            "y": 204.63
+          },
+          {
+            "x": 309.49,
+            "y": 200.54
+          },
+          {
+            "x": 300.07,
+            "y": 200.54
+          },
+          {
+            "x": 291.58,
+            "y": 204.63
+          },
+          {
+            "x": 285.7,
+            "y": 212.0
+          },
+          {
+            "x": 283.6,
+            "y": 221.19
+          },
+          {
+            "x": 283.6,
+            "y": 224.78
+          },
+          {
+            "x": 288.07,
+            "y": 243.36
+          },
+          {
+            "x": 288.07,
+            "y": 252.2
+          },
+          {
+            "x": 286.28,
+            "y": 260.6
+          },
+          {
+            "x": 286.28,
+            "y": 267.76
+          },
+          {
+            "x": 289.28,
+            "y": 278.74
+          },
+          {
+            "x": 295.16,
+            "y": 286.11
+          },
+          {
+            "x": 299.64,
+            "y": 289.69
+          },
+          {
+            "x": 304.55,
+            "y": 292.06
+          },
+          {
+            "x": 305.4,
+            "y": 295.76
+          },
+          {
+            "x": 312.17,
+            "y": 304.02
+          },
+          {
+            "x": 320.66,
+            "y": 308.11
+          },
+          {
+            "x": 325.37,
+            "y": 308.11
+          },
+          {
+            "x": 325.37,
+            "y": 308.64
+          },
+          {
+            "x": 332.77,
+            "y": 308.11
+          },
+          {
+            "x": 341.26,
+            "y": 304.02
+          },
+          {
+            "x": 347.14,
+            "y": 296.65
+          }
+        ]
+      }
+    },
+    {
+      "name": "Light skin",
+      "tag": {}
+    },
+    {
+      "name": "Vitiligo",
+      "tag": {}
+    },
+    {
+      "name": "Young",
+      "tag": {}
+    },
+    {
+      "name": "Female",
+      "tag": {}
+    },
+    {
+      "name": "Extensor sites",
+      "tag": {}
+    }
+  ]
+}

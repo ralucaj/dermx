@@ -1,0 +1,92 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 1640,
+    "height": 1078,
+    "original_filename": "labeller2_043204HB.jpg",
+    "filename": "labeller2_043204HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/72772466/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/72772466/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=3721"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Skin-coloured",
+        "Well-circumscribed"
+      ],
+      "bounding_box": {
+        "h": 33.26999999999998,
+        "w": 35.05,
+        "x": 88.83,
+        "y": 263.5
+      },
+      "name": "Papule",
+      "polygon": {
+        "path": [
+          {
+            "x": 122.13,
+            "y": 284.91
+          },
+          {
+            "x": 112.01,
+            "y": 295.02
+          },
+          {
+            "x": 105.47,
+            "y": 296.77
+          },
+          {
+            "x": 101.92,
+            "y": 296.77
+          },
+          {
+            "x": 95.38,
+            "y": 295.02
+          },
+          {
+            "x": 90.58,
+            "y": 290.22
+          },
+          {
+            "x": 88.83,
+            "y": 283.68
+          },
+          {
+            "x": 92.36,
+            "y": 271.83
+          },
+          {
+            "x": 97.16,
+            "y": 267.03
+          },
+          {
+            "x": 109.02,
+            "y": 263.5
+          },
+          {
+            "x": 117.33,
+            "y": 265.25
+          },
+          {
+            "x": 122.13,
+            "y": 270.05
+          },
+          {
+            "x": 123.88,
+            "y": 278.37
+          }
+        ]
+      }
+    },
+    {
+      "name": "Viral warts",
+      "tag": {}
+    },
+    {
+      "name": "Elderly",
+      "tag": {}
+    }
+  ]
+}

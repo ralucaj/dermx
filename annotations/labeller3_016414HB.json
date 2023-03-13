@@ -1,0 +1,43 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 1640,
+    "height": 1078,
+    "original_filename": "labeller3_016414HB.jpg",
+    "filename": "labeller3_016414HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/209363884/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209363884/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=276"
+  },
+  "annotations": [
+    {
+      "name": "Actinic keratosis",
+      "tag": {}
+    },
+    {
+      "name": "Dark skin",
+      "tag": {}
+    },
+    {
+      "name": "Elderly",
+      "tag": {}
+    },
+    {
+      "name": "Male",
+      "tag": {}
+    },
+    {
+      "name": "Acral distribution",
+      "tag": {}
+    },
+    {
+      "name": "Exposed areas",
+      "tag": {}
+    },
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

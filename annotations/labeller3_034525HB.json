@@ -1,0 +1,39 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 1640,
+    "height": 1078,
+    "original_filename": "labeller3_034525HB.jpg",
+    "filename": "labeller3_034525HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/209363906/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209363906/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=298"
+  },
+  "annotations": [
+    {
+      "name": "Dark skin",
+      "tag": {}
+    },
+    {
+      "name": "Male",
+      "tag": {}
+    },
+    {
+      "name": "Exposed areas",
+      "tag": {}
+    },
+    {
+      "name": "Other-disease",
+      "tag": {}
+    },
+    {
+      "name": "Low-quality",
+      "tag": {}
+    },
+    {
+      "name": "Seborrheic region",
+      "tag": {}
+    }
+  ]
+}

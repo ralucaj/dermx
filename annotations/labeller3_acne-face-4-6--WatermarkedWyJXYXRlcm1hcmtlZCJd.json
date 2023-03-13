@@ -1,0 +1,39 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 640,
+    "height": 479,
+    "original_filename": "labeller3_acne-face-4-6--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller3_acne-face-4-6--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/209363917/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209363917/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=309"
+  },
+  "annotations": [
+    {
+      "name": "Light skin",
+      "tag": {}
+    },
+    {
+      "name": "Male",
+      "tag": {}
+    },
+    {
+      "name": "Symmetrical",
+      "tag": {}
+    },
+    {
+      "name": "Other-disease",
+      "tag": {}
+    },
+    {
+      "name": "Low-quality",
+      "tag": {}
+    },
+    {
+      "name": "Seborrheic region",
+      "tag": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 640,
+    "height": 477,
+    "original_filename": "labeller8_acne-face-3-17--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller8_acne-face-3-17--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/209364541/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209364541/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=933"
+  },
+  "annotations": [
+    {
+      "name": "Low-quality",
+      "tag": {}
+    }
+  ]
+}

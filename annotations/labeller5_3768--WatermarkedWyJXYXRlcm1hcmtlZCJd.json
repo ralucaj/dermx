@@ -1,0 +1,19 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 360,
+    "height": 480,
+    "original_filename": "labeller5_3768--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller5_3768--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/72773021/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/72773021/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=4276"
+  },
+  "annotations": [
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

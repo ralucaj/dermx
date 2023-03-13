@@ -1,0 +1,171 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 640,
+    "height": 480,
+    "original_filename": "labeller3_viral-wart-03--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller3_viral-wart-03--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/90126602/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90126602/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=5994"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Skin-coloured",
+        "Well-circumscribed",
+        "Rough",
+        "Hyperkeratotic",
+        "Thick"
+      ],
+      "bounding_box": {
+        "h": 72.54999999999998,
+        "w": 73.45000000000005,
+        "x": 331.46,
+        "y": 172.36
+      },
+      "complex_polygon": {
+        "path": [
+          [
+            {
+              "x": 378.73,
+              "y": 213.87
+            },
+            {
+              "x": 378.73,
+              "y": 212.16
+            },
+            {
+              "x": 373.92,
+              "y": 209.52
+            },
+            {
+              "x": 378.41,
+              "y": 215.07
+            }
+          ],
+          [
+            {
+              "x": 404.0,
+              "y": 217.94
+            },
+            {
+              "x": 404.0,
+              "y": 221.82
+            },
+            {
+              "x": 401.34,
+              "y": 230.18
+            },
+            {
+              "x": 395.89,
+              "y": 237.45
+            },
+            {
+              "x": 390.18,
+              "y": 243.16
+            },
+            {
+              "x": 383.64,
+              "y": 244.91
+            },
+            {
+              "x": 380.0,
+              "y": 244.91
+            },
+            {
+              "x": 368.91,
+              "y": 242.25
+            },
+            {
+              "x": 362.3,
+              "y": 236.54
+            },
+            {
+              "x": 345.02,
+              "y": 213.81
+            },
+            {
+              "x": 333.21,
+              "y": 201.09
+            },
+            {
+              "x": 331.46,
+              "y": 194.55
+            },
+            {
+              "x": 333.21,
+              "y": 188.01
+            },
+            {
+              "x": 338.01,
+              "y": 183.21
+            },
+            {
+              "x": 344.33,
+              "y": 181.51
+            },
+            {
+              "x": 345.02,
+              "y": 178.91
+            },
+            {
+              "x": 349.82,
+              "y": 174.11
+            },
+            {
+              "x": 356.36,
+              "y": 172.36
+            },
+            {
+              "x": 363.81,
+              "y": 174.11
+            },
+            {
+              "x": 375.3,
+              "y": 181.96
+            },
+            {
+              "x": 385.63,
+              "y": 185.93
+            },
+            {
+              "x": 393.81,
+              "y": 190.48
+            },
+            {
+              "x": 402.25,
+              "y": 198.91
+            },
+            {
+              "x": 403.16,
+              "y": 200.73
+            },
+            {
+              "x": 404.91,
+              "y": 207.27
+            },
+            {
+              "x": 404.91,
+              "y": 214.55
+            }
+          ]
+        ]
+      },
+      "name": "Papule"
+    },
+    {
+      "name": "Light skin",
+      "tag": {}
+    },
+    {
+      "name": "Viral warts",
+      "tag": {}
+    },
+    {
+      "name": "Young",
+      "tag": {}
+    }
+  ]
+}

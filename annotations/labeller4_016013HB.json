@@ -1,0 +1,39 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 1640,
+    "height": 1078,
+    "original_filename": "labeller4_016013HB.jpg",
+    "filename": "labeller4_016013HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/90126719/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90126719/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=6111"
+  },
+  "annotations": [
+    {
+      "name": "Light skin",
+      "tag": {}
+    },
+    {
+      "name": "Elderly",
+      "tag": {}
+    },
+    {
+      "name": "Acral distribution",
+      "tag": {}
+    },
+    {
+      "name": "Exposed areas",
+      "tag": {}
+    },
+    {
+      "name": "Symmetrical",
+      "tag": {}
+    },
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

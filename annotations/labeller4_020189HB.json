@@ -1,0 +1,27 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 1640,
+    "height": 1078,
+    "original_filename": "labeller4_020189HB.jpg",
+    "filename": "labeller4_020189HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/209364010/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209364010/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=402"
+  },
+  "annotations": [
+    {
+      "name": "Elderly",
+      "tag": {}
+    },
+    {
+      "name": "Exposed areas",
+      "tag": {}
+    },
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

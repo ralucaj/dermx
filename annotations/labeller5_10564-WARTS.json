@@ -1,0 +1,19 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 500,
+    "height": 354,
+    "original_filename": "labeller5_10564-WARTS.jpg",
+    "filename": "labeller5_10564-WARTS.jpg",
+    "url": "https://darwin.v7labs.com/api/images/72773030/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/72773030/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=4285"
+  },
+  "annotations": [
+    {
+      "name": "Low-quality",
+      "tag": {}
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 1640,
+    "height": 1078,
+    "original_filename": "labeller2_046245HB.jpg",
+    "filename": "labeller2_046245HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/90126157/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90126157/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=5549"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Round",
+        "Indurated",
+        "Hard",
+        "Well-circumscribed",
+        "Hyperkeratotic"
+      ],
+      "bounding_box": {
+        "h": 79.17999999999995,
+        "w": 75.63,
+        "x": 716.58,
+        "y": 465.72
+      },
+      "name": "Nodule",
+      "polygon": {
+        "path": [
+          {
+            "x": 792.21,
+            "y": 510.63
+          },
+          {
+            "x": 792.21,
+            "y": 507.09
+          },
+          {
+            "x": 789.6,
+            "y": 493.98
+          },
+          {
+            "x": 782.17,
+            "y": 482.86
+          },
+          {
+            "x": 775.08,
+            "y": 475.76
+          },
+          {
+            "x": 763.96,
+            "y": 468.33
+          },
+          {
+            "x": 750.85,
+            "y": 465.72
+          },
+          {
+            "x": 737.74,
+            "y": 468.33
+          },
+          {
+            "x": 726.62,
+            "y": 475.76
+          },
+          {
+            "x": 719.19,
+            "y": 486.88
+          },
+          {
+            "x": 716.58,
+            "y": 499.99
+          },
+          {
+            "x": 719.19,
+            "y": 514.88
+          },
+          {
+            "x": 730.17,
+            "y": 531.32
+          },
+          {
+            "x": 733.71,
+            "y": 534.86
+          },
+          {
+            "x": 744.83,
+            "y": 542.29
+          },
+          {
+            "x": 757.94,
+            "y": 544.9
+          },
+          {
+            "x": 771.05,
+            "y": 542.29
+          },
+          {
+            "x": 782.17,
+            "y": 534.86
+          },
+          {
+            "x": 789.6,
+            "y": 523.74
+          }
+        ]
+      }
+    },
+    {
+      "name": "Viral warts",
+      "tag": {}
+    }
+  ]
+}

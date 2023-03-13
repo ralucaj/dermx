@@ -1,0 +1,120 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 1640,
+    "height": 1078,
+    "original_filename": "labeller5_016680HB.jpg",
+    "filename": "labeller5_016680HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/90127096/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90127096/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=6488"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "White",
+        "Thick"
+      ],
+      "bounding_box": {
+        "h": 66.94,
+        "w": 51.34000000000003,
+        "x": 768.02,
+        "y": 493.46
+      },
+      "name": "Scale",
+      "polygon": {
+        "path": [
+          {
+            "x": 819.36,
+            "y": 539.75
+          },
+          {
+            "x": 819.36,
+            "y": 535.9
+          },
+          {
+            "x": 815.98,
+            "y": 521.58
+          },
+          {
+            "x": 809.9,
+            "y": 512.0
+          },
+          {
+            "x": 808.28,
+            "y": 504.92
+          },
+          {
+            "x": 802.4,
+            "y": 497.55
+          },
+          {
+            "x": 793.91,
+            "y": 493.46
+          },
+          {
+            "x": 784.49,
+            "y": 493.46
+          },
+          {
+            "x": 776.0,
+            "y": 497.55
+          },
+          {
+            "x": 770.12,
+            "y": 504.92
+          },
+          {
+            "x": 768.02,
+            "y": 514.11
+          },
+          {
+            "x": 768.02,
+            "y": 517.95
+          },
+          {
+            "x": 770.12,
+            "y": 527.14
+          },
+          {
+            "x": 775.82,
+            "y": 536.83
+          },
+          {
+            "x": 779.1,
+            "y": 548.94
+          },
+          {
+            "x": 784.98,
+            "y": 556.31
+          },
+          {
+            "x": 793.47,
+            "y": 560.4
+          },
+          {
+            "x": 802.89,
+            "y": 560.4
+          },
+          {
+            "x": 811.38,
+            "y": 556.31
+          },
+          {
+            "x": 817.26,
+            "y": 548.94
+          }
+        ]
+      }
+    },
+    {
+      "name": "Actinic keratosis",
+      "tag": {}
+    },
+    {
+      "name": "Exposed areas",
+      "tag": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 1640,
+    "height": 1129,
+    "original_filename": "labeller8_000498HB.jpg",
+    "filename": "labeller8_000498HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/90128112/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90128112/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=7504"
+  },
+  "annotations": [
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

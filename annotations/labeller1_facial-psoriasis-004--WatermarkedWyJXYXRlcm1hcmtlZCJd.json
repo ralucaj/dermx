@@ -1,0 +1,19 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 640,
+    "height": 480,
+    "original_filename": "labeller1_facial-psoriasis-004--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller1_facial-psoriasis-004--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/90125827/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90125827/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=5219"
+  },
+  "annotations": [
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

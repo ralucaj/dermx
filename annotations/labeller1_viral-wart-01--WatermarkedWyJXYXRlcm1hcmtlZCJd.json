@@ -1,0 +1,124 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 640,
+    "height": 480,
+    "original_filename": "labeller1_viral-wart-01--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller1_viral-wart-01--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/90125878/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90125878/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=5270"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Skin-coloured",
+        "Hyperkeratotic"
+      ],
+      "bounding_box": {
+        "h": 109.89999999999998,
+        "w": 64.25,
+        "x": 345.56,
+        "y": 168.37
+      },
+      "name": "Papule",
+      "polygon": {
+        "path": [
+          {
+            "x": 407.71,
+            "y": 263.9
+          },
+          {
+            "x": 406.25,
+            "y": 266.81
+          },
+          {
+            "x": 400.37,
+            "y": 274.18
+          },
+          {
+            "x": 391.88,
+            "y": 278.27
+          },
+          {
+            "x": 382.46,
+            "y": 278.27
+          },
+          {
+            "x": 373.97,
+            "y": 274.18
+          },
+          {
+            "x": 368.09,
+            "y": 266.81
+          },
+          {
+            "x": 365.99,
+            "y": 257.62
+          },
+          {
+            "x": 367.45,
+            "y": 249.77
+          },
+          {
+            "x": 367.45,
+            "y": 235.82
+          },
+          {
+            "x": 353.31,
+            "y": 205.29
+          },
+          {
+            "x": 347.66,
+            "y": 198.21
+          },
+          {
+            "x": 345.56,
+            "y": 189.02
+          },
+          {
+            "x": 347.66,
+            "y": 179.83
+          },
+          {
+            "x": 353.54,
+            "y": 172.46
+          },
+          {
+            "x": 362.03,
+            "y": 168.37
+          },
+          {
+            "x": 372.91,
+            "y": 168.37
+          },
+          {
+            "x": 381.4,
+            "y": 172.46
+          },
+          {
+            "x": 390.2,
+            "y": 184.21
+          },
+          {
+            "x": 407.71,
+            "y": 222.16
+          },
+          {
+            "x": 409.81,
+            "y": 231.35
+          },
+          {
+            "x": 409.81,
+            "y": 254.71
+          }
+        ]
+      }
+    },
+    {
+      "name": "Viral warts",
+      "tag": {}
+    }
+  ]
+}

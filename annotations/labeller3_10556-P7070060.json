@@ -1,0 +1,23 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 1536,
+    "height": 2048,
+    "original_filename": "labeller3_10556-P7070060.jpg",
+    "filename": "labeller3_10556-P7070060.jpg",
+    "url": "https://darwin.v7labs.com/api/images/209363882/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209363882/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=274"
+  },
+  "annotations": [
+    {
+      "name": "Male",
+      "tag": {}
+    },
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

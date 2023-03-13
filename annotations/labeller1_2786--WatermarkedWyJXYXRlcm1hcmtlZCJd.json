@@ -1,0 +1,142 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 1329,
+    "height": 996,
+    "original_filename": "labeller1_2786--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller1_2786--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/90128477/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90128477/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=7869"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Well-circumscribed",
+        "White",
+        "Hypo-pigmented",
+        "Round"
+      ],
+      "bounding_box": {
+        "h": 288.18,
+        "w": 290.30000000000007,
+        "x": 722.9,
+        "y": 391.46
+      },
+      "name": "Patch",
+      "polygon": {
+        "path": [
+          {
+            "x": 1008.98,
+            "y": 570.29
+          },
+          {
+            "x": 996.57,
+            "y": 603.0
+          },
+          {
+            "x": 976.7,
+            "y": 631.8
+          },
+          {
+            "x": 950.51,
+            "y": 655.01
+          },
+          {
+            "x": 919.52,
+            "y": 671.27
+          },
+          {
+            "x": 885.55,
+            "y": 679.64
+          },
+          {
+            "x": 850.55,
+            "y": 679.64
+          },
+          {
+            "x": 816.58,
+            "y": 671.27
+          },
+          {
+            "x": 785.59,
+            "y": 655.01
+          },
+          {
+            "x": 759.4,
+            "y": 631.8
+          },
+          {
+            "x": 739.53,
+            "y": 603.0
+          },
+          {
+            "x": 727.12,
+            "y": 570.29
+          },
+          {
+            "x": 722.9,
+            "y": 535.55
+          },
+          {
+            "x": 727.12,
+            "y": 500.81
+          },
+          {
+            "x": 739.53,
+            "y": 468.1
+          },
+          {
+            "x": 759.4,
+            "y": 439.3
+          },
+          {
+            "x": 785.59,
+            "y": 416.09
+          },
+          {
+            "x": 816.58,
+            "y": 399.83
+          },
+          {
+            "x": 850.55,
+            "y": 391.46
+          },
+          {
+            "x": 885.55,
+            "y": 391.46
+          },
+          {
+            "x": 919.52,
+            "y": 399.83
+          },
+          {
+            "x": 950.51,
+            "y": 416.09
+          },
+          {
+            "x": 976.7,
+            "y": 439.3
+          },
+          {
+            "x": 996.57,
+            "y": 468.1
+          },
+          {
+            "x": 1008.98,
+            "y": 500.81
+          },
+          {
+            "x": 1013.2,
+            "y": 535.55
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vitiligo",
+      "tag": {}
+    }
+  ]
+}

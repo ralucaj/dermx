@@ -1,0 +1,19 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 640,
+    "height": 419,
+    "original_filename": "labeller1_vitiligo5--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller1_vitiligo5--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/209363670/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209363670/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=62"
+  },
+  "annotations": [
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

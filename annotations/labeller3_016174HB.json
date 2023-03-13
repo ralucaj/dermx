@@ -1,0 +1,156 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 1640,
+    "height": 1078,
+    "original_filename": "labeller3_016174HB.jpg",
+    "filename": "labeller3_016174HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/90126368/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90126368/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=5760"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Well-circumscribed",
+        "Hard",
+        "Rough",
+        "Red",
+        "Hyperkeratotic",
+        "Thick"
+      ],
+      "bounding_box": {
+        "h": 134.87,
+        "w": 132.62,
+        "x": 855.37,
+        "y": 498.22
+      },
+      "name": "Papule",
+      "polygon": {
+        "path": [
+          {
+            "x": 984.64,
+            "y": 571.78
+          },
+          {
+            "x": 982.8,
+            "y": 574.97
+          },
+          {
+            "x": 980.69,
+            "y": 581.65
+          },
+          {
+            "x": 971.06,
+            "y": 598.33
+          },
+          {
+            "x": 965.14,
+            "y": 606.23
+          },
+          {
+            "x": 959.21,
+            "y": 612.15
+          },
+          {
+            "x": 944.46,
+            "y": 624.53
+          },
+          {
+            "x": 920.45,
+            "y": 633.09
+          },
+          {
+            "x": 901.19,
+            "y": 633.09
+          },
+          {
+            "x": 883.1,
+            "y": 626.51
+          },
+          {
+            "x": 868.35,
+            "y": 614.13
+          },
+          {
+            "x": 858.72,
+            "y": 597.45
+          },
+          {
+            "x": 855.37,
+            "y": 578.49
+          },
+          {
+            "x": 858.72,
+            "y": 559.53
+          },
+          {
+            "x": 868.35,
+            "y": 542.85
+          },
+          {
+            "x": 881.74,
+            "y": 531.61
+          },
+          {
+            "x": 890.07,
+            "y": 517.18
+          },
+          {
+            "x": 904.82,
+            "y": 504.8
+          },
+          {
+            "x": 922.91,
+            "y": 498.22
+          },
+          {
+            "x": 942.17,
+            "y": 498.22
+          },
+          {
+            "x": 960.26,
+            "y": 504.8
+          },
+          {
+            "x": 975.01,
+            "y": 517.18
+          },
+          {
+            "x": 984.64,
+            "y": 533.86
+          },
+          {
+            "x": 987.99,
+            "y": 552.82
+          }
+        ]
+      }
+    },
+    {
+      "name": "Elderly",
+      "tag": {}
+    },
+    {
+      "name": "Female",
+      "tag": {}
+    },
+    {
+      "name": "Exposed areas",
+      "tag": {}
+    },
+    {
+      "name": "Other-disease",
+      "tag": {}
+    },
+    {
+      "name": "Low-quality",
+      "tag": {}
+    },
+    {
+      "name": "Seborrheic region",
+      "tag": {}
+    }
+  ]
+}

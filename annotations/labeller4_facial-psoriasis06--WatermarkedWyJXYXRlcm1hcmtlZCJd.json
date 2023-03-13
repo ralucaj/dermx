@@ -1,0 +1,27 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 640,
+    "height": 480,
+    "original_filename": "labeller4_facial-psoriasis06--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller4_facial-psoriasis06--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/90126914/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90126914/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=6306"
+  },
+  "annotations": [
+    {
+      "name": "Light skin",
+      "tag": {}
+    },
+    {
+      "name": "Exposed areas",
+      "tag": {}
+    },
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

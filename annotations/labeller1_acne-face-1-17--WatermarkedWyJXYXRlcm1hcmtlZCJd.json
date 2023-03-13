@@ -1,0 +1,14 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 640,
+    "height": 479,
+    "original_filename": "labeller1_acne-face-1-17--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller1_acne-face-1-17--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/90125795/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90125795/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=5187"
+  },
+  "annotations": []
+}

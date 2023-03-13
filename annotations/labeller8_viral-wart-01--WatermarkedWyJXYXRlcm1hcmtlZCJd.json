@@ -1,0 +1,162 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 640,
+    "height": 480,
+    "original_filename": "labeller8_viral-wart-01--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller8_viral-wart-01--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/72773803/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/72773803/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=5058"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Hyperkeratotic",
+        "Indurated",
+        "Thick",
+        "Skin-coloured"
+      ],
+      "bounding_box": {
+        "h": 110.79999999999998,
+        "w": 69.22000000000003,
+        "x": 341.2,
+        "y": 169.28
+      },
+      "name": "Plaque",
+      "polygon": {
+        "path": [
+          {
+            "x": 410.42,
+            "y": 221.03
+          },
+          {
+            "x": 410.42,
+            "y": 205.71
+          },
+          {
+            "x": 406.48,
+            "y": 191.15
+          },
+          {
+            "x": 402.1,
+            "y": 182.4
+          },
+          {
+            "x": 390.73,
+            "y": 171.76
+          },
+          {
+            "x": 382.74,
+            "y": 169.28
+          },
+          {
+            "x": 368.88,
+            "y": 169.28
+          },
+          {
+            "x": 352.12,
+            "y": 173.22
+          },
+          {
+            "x": 347.75,
+            "y": 174.68
+          },
+          {
+            "x": 342.95,
+            "y": 179.48
+          },
+          {
+            "x": 341.2,
+            "y": 186.02
+          },
+          {
+            "x": 341.2,
+            "y": 189.67
+          },
+          {
+            "x": 342.95,
+            "y": 196.21
+          },
+          {
+            "x": 350.66,
+            "y": 203.92
+          },
+          {
+            "x": 357.24,
+            "y": 207.58
+          },
+          {
+            "x": 357.24,
+            "y": 225.41
+          },
+          {
+            "x": 358.99,
+            "y": 231.95
+          },
+          {
+            "x": 361.0,
+            "y": 233.96
+          },
+          {
+            "x": 353.6,
+            "y": 258.97
+          },
+          {
+            "x": 353.6,
+            "y": 266.99
+          },
+          {
+            "x": 355.35,
+            "y": 273.53
+          },
+          {
+            "x": 360.15,
+            "y": 278.33
+          },
+          {
+            "x": 366.69,
+            "y": 280.08
+          },
+          {
+            "x": 379.09,
+            "y": 279.35
+          },
+          {
+            "x": 385.63,
+            "y": 277.6
+          },
+          {
+            "x": 390.43,
+            "y": 272.8
+          },
+          {
+            "x": 393.35,
+            "y": 268.42
+          },
+          {
+            "x": 396.99,
+            "y": 259.67
+          },
+          {
+            "x": 400.91,
+            "y": 247.0
+          },
+          {
+            "x": 405.02,
+            "y": 239.97
+          },
+          {
+            "x": 409.69,
+            "y": 224.68
+          }
+        ]
+      }
+    },
+    {
+      "name": "Viral warts",
+      "tag": {}
+    }
+  ]
+}

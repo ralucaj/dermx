@@ -1,0 +1,19 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 640,
+    "height": 480,
+    "original_filename": "labeller42_facial-psoriasis26--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller42_facial-psoriasis26--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/209364092/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209364092/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=484"
+  },
+  "annotations": [
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

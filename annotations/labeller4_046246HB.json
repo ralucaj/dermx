@@ -1,0 +1,151 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 1640,
+    "height": 1078,
+    "original_filename": "labeller4_046246HB.jpg",
+    "filename": "labeller4_046246HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/90126875/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90126875/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=6267"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Skin-coloured",
+        "Well-circumscribed",
+        "Hyperkeratotic",
+        "Indurated",
+        "Round"
+      ],
+      "bounding_box": {
+        "h": 91.47000000000003,
+        "w": 95.29999999999995,
+        "x": 678.69,
+        "y": 485.62
+      },
+      "name": "Papule",
+      "polygon": {
+        "path": [
+          {
+            "x": 773.99,
+            "y": 542.82
+          },
+          {
+            "x": 773.99,
+            "y": 535.18
+          },
+          {
+            "x": 771.38,
+            "y": 522.07
+          },
+          {
+            "x": 763.95,
+            "y": 510.95
+          },
+          {
+            "x": 761.66,
+            "y": 509.42
+          },
+          {
+            "x": 752.49,
+            "y": 495.66
+          },
+          {
+            "x": 741.37,
+            "y": 488.23
+          },
+          {
+            "x": 728.26,
+            "y": 485.62
+          },
+          {
+            "x": 720.61,
+            "y": 485.62
+          },
+          {
+            "x": 707.5,
+            "y": 488.23
+          },
+          {
+            "x": 696.38,
+            "y": 495.66
+          },
+          {
+            "x": 694.85,
+            "y": 497.95
+          },
+          {
+            "x": 688.73,
+            "y": 503.3
+          },
+          {
+            "x": 681.3,
+            "y": 514.42
+          },
+          {
+            "x": 678.69,
+            "y": 527.53
+          },
+          {
+            "x": 678.69,
+            "y": 542.82
+          },
+          {
+            "x": 681.3,
+            "y": 555.93
+          },
+          {
+            "x": 688.73,
+            "y": 567.05
+          },
+          {
+            "x": 699.85,
+            "y": 574.48
+          },
+          {
+            "x": 712.96,
+            "y": 577.09
+          },
+          {
+            "x": 739.72,
+            "y": 577.09
+          },
+          {
+            "x": 752.83,
+            "y": 574.48
+          },
+          {
+            "x": 763.95,
+            "y": 567.05
+          },
+          {
+            "x": 771.38,
+            "y": 555.93
+          }
+        ]
+      }
+    },
+    {
+      "name": "Light skin",
+      "tag": {}
+    },
+    {
+      "name": "Viral warts",
+      "tag": {}
+    },
+    {
+      "name": "Young",
+      "tag": {}
+    },
+    {
+      "name": "Female",
+      "tag": {}
+    },
+    {
+      "name": "Exposed areas",
+      "tag": {}
+    }
+  ]
+}

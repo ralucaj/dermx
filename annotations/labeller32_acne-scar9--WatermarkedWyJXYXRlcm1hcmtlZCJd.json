@@ -1,0 +1,19 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 640,
+    "height": 480,
+    "original_filename": "labeller32_acne-scar9--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller32_acne-scar9--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/209363965/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209363965/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=357"
+  },
+  "annotations": [
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 1640,
+    "height": 1078,
+    "original_filename": "labeller6_046245HB.jpg",
+    "filename": "labeller6_046245HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/90127598/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90127598/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=6990"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Hyperkeratotic"
+      ],
+      "bounding_box": {
+        "h": 68.53999999999996,
+        "w": 68.54000000000008,
+        "x": 721.05,
+        "y": 469.35
+      },
+      "name": "Papule",
+      "polygon": {
+        "path": [
+          {
+            "x": 786.98,
+            "y": 516.73
+          },
+          {
+            "x": 779.55,
+            "y": 527.85
+          },
+          {
+            "x": 768.43,
+            "y": 535.28
+          },
+          {
+            "x": 755.32,
+            "y": 537.89
+          },
+          {
+            "x": 742.21,
+            "y": 535.28
+          },
+          {
+            "x": 731.09,
+            "y": 527.85
+          },
+          {
+            "x": 723.66,
+            "y": 516.73
+          },
+          {
+            "x": 721.05,
+            "y": 503.62
+          },
+          {
+            "x": 723.66,
+            "y": 490.51
+          },
+          {
+            "x": 731.09,
+            "y": 479.39
+          },
+          {
+            "x": 742.21,
+            "y": 471.96
+          },
+          {
+            "x": 755.32,
+            "y": 469.35
+          },
+          {
+            "x": 768.43,
+            "y": 471.96
+          },
+          {
+            "x": 779.55,
+            "y": 479.39
+          },
+          {
+            "x": 786.98,
+            "y": 490.51
+          },
+          {
+            "x": 789.59,
+            "y": 503.62
+          }
+        ]
+      }
+    },
+    {
+      "name": "Viral warts",
+      "tag": {}
+    }
+  ]
+}

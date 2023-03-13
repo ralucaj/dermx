@@ -1,0 +1,102 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 627,
+    "height": 480,
+    "original_filename": "labeller8_wart17--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller8_wart17--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/90128441/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90128441/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=7833"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Indurated",
+        "Well-circumscribed",
+        "Skin-coloured",
+        "Hyperkeratotic"
+      ],
+      "bounding_box": {
+        "h": 68.54000000000002,
+        "w": 68.54000000000002,
+        "x": 299.69,
+        "y": 208.88
+      },
+      "name": "Nodule",
+      "polygon": {
+        "path": [
+          {
+            "x": 365.62,
+            "y": 256.26
+          },
+          {
+            "x": 358.19,
+            "y": 267.38
+          },
+          {
+            "x": 347.07,
+            "y": 274.81
+          },
+          {
+            "x": 333.96,
+            "y": 277.42
+          },
+          {
+            "x": 320.85,
+            "y": 274.81
+          },
+          {
+            "x": 309.73,
+            "y": 267.38
+          },
+          {
+            "x": 302.3,
+            "y": 256.26
+          },
+          {
+            "x": 299.69,
+            "y": 243.15
+          },
+          {
+            "x": 302.3,
+            "y": 230.04
+          },
+          {
+            "x": 309.73,
+            "y": 218.92
+          },
+          {
+            "x": 320.85,
+            "y": 211.49
+          },
+          {
+            "x": 333.96,
+            "y": 208.88
+          },
+          {
+            "x": 347.07,
+            "y": 211.49
+          },
+          {
+            "x": 358.19,
+            "y": 218.92
+          },
+          {
+            "x": 365.62,
+            "y": 230.04
+          },
+          {
+            "x": 368.23,
+            "y": 243.15
+          }
+        ]
+      }
+    },
+    {
+      "name": "Viral warts",
+      "tag": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 1640,
+    "height": 1129,
+    "original_filename": "labeller2_009996HB.jpg",
+    "filename": "labeller2_009996HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/209363750/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209363750/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=142"
+  },
+  "annotations": [
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

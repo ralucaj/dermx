@@ -1,0 +1,126 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 640,
+    "height": 480,
+    "original_filename": "labeller4_3736--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "filename": "labeller4_3736--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/90126701/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90126701/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=6093"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Well-circumscribed",
+        "Indurated",
+        "Red",
+        "Convex-margins"
+      ],
+      "bounding_box": {
+        "h": 73.29999999999998,
+        "w": 72.35000000000002,
+        "x": 444.78,
+        "y": 185.73
+      },
+      "name": "Plaque",
+      "polygon": {
+        "path": [
+          {
+            "x": 514.52,
+            "y": 237.87
+          },
+          {
+            "x": 507.09,
+            "y": 248.99
+          },
+          {
+            "x": 495.97,
+            "y": 256.42
+          },
+          {
+            "x": 482.86,
+            "y": 259.03
+          },
+          {
+            "x": 469.75,
+            "y": 256.42
+          },
+          {
+            "x": 458.63,
+            "y": 248.99
+          },
+          {
+            "x": 454.82,
+            "y": 244.23
+          },
+          {
+            "x": 447.39,
+            "y": 233.11
+          },
+          {
+            "x": 444.78,
+            "y": 220.0
+          },
+          {
+            "x": 447.39,
+            "y": 206.89
+          },
+          {
+            "x": 454.82,
+            "y": 195.77
+          },
+          {
+            "x": 465.94,
+            "y": 188.34
+          },
+          {
+            "x": 480.0,
+            "y": 185.73
+          },
+          {
+            "x": 493.11,
+            "y": 188.34
+          },
+          {
+            "x": 504.23,
+            "y": 195.77
+          },
+          {
+            "x": 507.09,
+            "y": 198.63
+          },
+          {
+            "x": 514.52,
+            "y": 209.75
+          },
+          {
+            "x": 517.13,
+            "y": 224.76
+          }
+        ]
+      }
+    },
+    {
+      "name": "Light skin",
+      "tag": {}
+    },
+    {
+      "name": "Actinic keratosis",
+      "tag": {}
+    },
+    {
+      "name": "Female",
+      "tag": {}
+    },
+    {
+      "name": "Exposed areas",
+      "tag": {}
+    },
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

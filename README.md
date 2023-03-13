@@ -52,10 +52,13 @@ please contact the owners of [the SD-260 dataset](http://xiaopingwu.cn/assets/pr
 If you use this repository in your research, please cite the work as:
 
 ```bibtex
-@article{jalaboi2022dermx,
-  title={DermX: an end-to-end framework for explainable automated dermatological diagnosis},
+@article{jalaboi2023dermx,
+  title={DermX: An end-to-end framework for explainable automated dermatological diagnosis},
   author={Jalaboi, Raluca and Faye, Frederik and Orbes-Arteaga, Mauricio and J{\o}rgensen, Dan and Winther, Ole and Galimzianova, Alfiia},
-  journal={arXiv preprint arXiv:2202.06956},
-  year={2022}
+  journal={Medical Image Analysis},
+  volume={83},
+  pages={102647},
+  year={2023},
+  publisher={Elsevier}
 }
 ```

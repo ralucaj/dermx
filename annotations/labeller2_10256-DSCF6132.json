@@ -1,0 +1,19 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 2048,
+    "height": 1536,
+    "original_filename": "labeller2_10256-DSCF6132.jpg",
+    "filename": "labeller2_10256-DSCF6132.jpg",
+    "url": "https://darwin.v7labs.com/api/images/72772392/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/72772392/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=3647"
+  },
+  "annotations": [
+    {
+      "name": "Low-quality",
+      "tag": {}
+    }
+  ]
+}

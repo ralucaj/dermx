@@ -1,0 +1,19 @@
+{
+  "dataset": "DermX v2",
+  "image": {
+    "width": 2304,
+    "height": 1728,
+    "original_filename": "labeller1_10084-giant-20acne-20keloidalis-20nuchae1.jpg",
+    "filename": "labeller1_10084-giant-20acne-20keloidalis-20nuchae1.jpg",
+    "url": "https://darwin.v7labs.com/api/images/209363630/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/209363630/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=381732&image=22"
+  },
+  "annotations": [
+    {
+      "name": "Other-disease",
+      "tag": {}
+    }
+  ]
+}

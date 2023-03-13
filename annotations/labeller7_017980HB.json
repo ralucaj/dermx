@@ -1,0 +1,121 @@
+{
+  "dataset": "Explainability dataset",
+  "image": {
+    "width": 1640,
+    "height": 1078,
+    "original_filename": "labeller7_017980HB.jpg",
+    "filename": "labeller7_017980HB.jpg",
+    "url": "https://darwin.v7labs.com/api/images/90127816/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/90127816/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=220222&image=7208"
+  },
+  "annotations": [
+    {
+      "attributes": [
+        "Poorly-circumscribed",
+        "Rough",
+        "Red"
+      ],
+      "bounding_box": {
+        "h": 109.19999999999999,
+        "w": 110.89999999999998,
+        "x": 771.41,
+        "y": 482.44
+      },
+      "name": "Patch",
+      "polygon": {
+        "path": [
+          {
+            "x": 878.96,
+            "y": 556.0
+          },
+          {
+            "x": 869.33,
+            "y": 572.68
+          },
+          {
+            "x": 854.58,
+            "y": 585.06
+          },
+          {
+            "x": 836.49,
+            "y": 591.64
+          },
+          {
+            "x": 817.23,
+            "y": 591.64
+          },
+          {
+            "x": 799.14,
+            "y": 585.06
+          },
+          {
+            "x": 784.39,
+            "y": 572.68
+          },
+          {
+            "x": 774.76,
+            "y": 556.0
+          },
+          {
+            "x": 771.41,
+            "y": 537.04
+          },
+          {
+            "x": 774.76,
+            "y": 518.08
+          },
+          {
+            "x": 784.39,
+            "y": 501.4
+          },
+          {
+            "x": 799.14,
+            "y": 489.02
+          },
+          {
+            "x": 817.23,
+            "y": 482.44
+          },
+          {
+            "x": 836.49,
+            "y": 482.44
+          },
+          {
+            "x": 854.58,
+            "y": 489.02
+          },
+          {
+            "x": 869.33,
+            "y": 501.4
+          },
+          {
+            "x": 878.96,
+            "y": 518.08
+          },
+          {
+            "x": 882.31,
+            "y": 537.04
+          }
+        ]
+      }
+    },
+    {
+      "name": "Light skin",
+      "tag": {}
+    },
+    {
+      "name": "Actinic keratosis",
+      "tag": {}
+    },
+    {
+      "name": "Male",
+      "tag": {}
+    },
+    {
+      "name": "Exposed areas",
+      "tag": {}
+    }
+  ]
+}
