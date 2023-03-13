@@ -1,0 +1,55 @@
+,original_filename,dataset,diagnosis,current_filename,patient_id
+11,acne-face-1-1__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Acne,acne-face-1-1--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,11
+19,acne-face-1-5__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Acne,acne-face-1-5--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,19
+21,acne-face-1__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Acne,acne-face-1--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,21
+39,acne-face-6-3__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Acne,acne-face-6-3--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,39
+45,acne-face-9__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Acne,acne-face-9--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,45
+68,3739__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Actinic keratosis,3739--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,68
+69,3742__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Actinic keratosis,3742--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,69
+73,3754__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Actinic keratosis,3754--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,73
+74,3756__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Actinic keratosis,3756--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,74
+75,3759__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Actinic keratosis,3759--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,75
+79,3770__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Actinic keratosis,3770--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,74
+82,406__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Actinic keratosis,406--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,82
+124,facial-psoriasis21__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Psoriasis,facial-psoriasis21--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,124
+127,ppps01__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Psoriasis,ppps01--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,127
+131,ppps16__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Psoriasis,ppps16--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,131
+134,ppps23__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Psoriasis,ppps23--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,134
+150,severe-neck-psoriasis__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Psoriasis,severe-neck-psoriasis--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,150
+156,sebderm03__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Seborrheic dermatitis,sebderm03--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,156
+175,viral-wart-06__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Viral warts,viral-wart-06--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,175
+181,viral-wart-12__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Viral warts,viral-wart-12--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,181
+182,viral-wart-13__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Viral warts,viral-wart-13--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,182
+206,wart26__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Viral warts,wart26--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,206
+213,wart7__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Viral warts,wart7--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,213
+222,halo3__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Vitiligo,halo3--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,222
+223,halo5__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Vitiligo,halo5--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,223
+229,sunburn-vitiligo__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Vitiligo,sunburn-vitiligo--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,229
+234,vitiligo-05__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Vitiligo,vitiligo-05--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,234
+277,vitiligo-55__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Vitiligo,vitiligo-55--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,277
+287,vitiligo-66__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Vitiligo,vitiligo-66--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,287
+291,vitiligo4__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,DermNetNZ,Vitiligo,vitiligo4--WatermarkedWyJXYXRlcm1hcmtlZCJd.jpeg,291
+293,032462HB.jpg,SD-260,Acne,032462HB.jpeg,293
+295,032720HB.jpg,SD-260,Acne,032720HB.jpeg,295
+308,033757HB.jpg,SD-260,Acne,033757HB.jpeg,308
+330,035088HB.jpg,SD-260,Acne,035088HB.jpeg,330
+335,035318HB.jpg,SD-260,Acne,035318HB.jpeg,335
+366,017095HB.jpg,SD-260,Actinic keratosis,017095HB.jpeg,366
+376,017606HB.jpg,SD-260,Actinic keratosis,017606HB.jpeg,376
+377,017609HB.jpg,SD-260,Actinic keratosis,017609HB.jpeg,377
+392,044370HB.jpg,SD-260,Psoriasis,044370HB.jpeg,392
+406,044554HB.jpg,SD-260,Psoriasis,044554HB.jpeg,406
+420,044767HB.jpg,SD-260,Psoriasis,044767HB.jpeg,420
+422,044773HB.jpg,SD-260,Psoriasis,044773HB.jpeg,422
+449,043021HB.jpg,SD-260,Seborrheic dermatitis,043021HB.jpeg,449
+471,043095HB.jpg,SD-260,Seborrheic dermatitis,043095HB.jpeg,471
+475,043106HB.jpg,SD-260,Seborrheic dermatitis,043106HB.jpeg,475
+480,043118HB.jpg,SD-260,Seborrheic dermatitis,043118HB.jpeg,480
+491,043157HB.jpg,SD-260,Seborrheic dermatitis,043157HB.jpeg,491
+499,043204HB.jpg,SD-260,Seborrheic dermatitis,043204HB.jpeg,499
+511,043259HB.jpg,SD-260,Seborrheic dermatitis,043259HB.jpeg,511
+520,043299HB.jpg,SD-260,Seborrheic dermatitis,043299HB.jpeg,520
+530,041881HB.jpg,SD-260,Viral warts,041881HB.jpeg,530
+563,10249-000_0006.jpg,SD-260,Vitiligo,10249-000-0006.jpeg,563
+564,10249-000_0007.jpg,SD-260,Vitiligo,10249-000-0007.jpeg,563
+565,10489-Vitiligo.jpg,SD-260,Vitiligo,10489-Vitiligo.jpeg,565
